@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Notitas</string>
+    <string name="label1_start_text">Tiny Notes</string>
+
+    <string name="toast1_second_text">Add a note to get started</string>
+
+    <string name="label1_crearNota_text">Write a note:</string>
+    <string name="caja1_crearNota_hint">Introduce new note</string>
+    <string name="btn1_volver_crearNota_text">Back</string>
+    <string name="btn1_crear_crearNota_text">Create</string>
+    <string name="toast1_crearNota_text">Mandatory note</string>
+    <string name="toast2_crearNota_text">Note created successfully</string>
+
+    <string name="label1_verNota_text">Number id:</string>
+    <string name="label2_verNota_text">0</string>
+    <string name="label3_verNota_text">Note</string>
+    <string name="label4_verNota_text"></string>
+    <string name="btn1_volver_verNota_text">Back</string>
+    <string name="btn1_borrar_verNota_text">Delete</string>
+    <string name="toast1_verNota_text">Note deleted successfully</string>
+
+    <string name="btn1_volver_borrarNota_text">Back</string>
+    <string name="btn1_borrar_borrarNota_text">Delete all notes</string>
+    <string name="toast1_borrarNota_text">All notes have been deleted successfully</string>
+    <string name="toast2_borrarNota_text">Something went wrong</string>
+</resources>
